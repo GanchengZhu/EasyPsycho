@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <source path="easypsycho"/>
+    <extend-configuration-property name="gdx.files.classpath"
+                                   value="org/easypsycho/font/FreeMono.ttf"/>
+    <extend-configuration-property name="gdx.files.classpath"
+                                   value="org/easypsycho/font/FreeMonoBold.ttf"/>
+    <extend-configuration-property name="gdx.files.classpath"
+                                   value="org/easypsycho/font/FreeMonoBoldOblique.ttf"/>
+    <extend-configuration-property name="gdx.files.classpath"
+                                   value="org/easypsycho/font/FreeMonoOblique.ttf"/>
+    <extend-configuration-property name="gdx.files.classpath"
+                                   value="org/easypsycho/font/FreeSans.ttf"/>
+    <extend-configuration-property name="gdx.files.classpath"
+                                   value="org/easypsycho/font/FreeSansBold.ttf"/>
+    <extend-configuration-property name="gdx.files.classpath"
+                                   value="org/easypsycho/font/FreeSansBoldOblique.ttf"/>
+    <extend-configuration-property name="gdx.files.classpath"
+                                   value="org/easypsycho/font/FreeSansOblique.ttf"/>
+    <extend-configuration-property name="gdx.files.classpath"
+                                   value="org/easypsycho/font/FreeSerif.ttf"/>
+    <extend-configuration-property name="gdx.files.classpath"
+                                   value="org/easypsycho/font/FreeSerifBold.ttf"/>
+    <extend-configuration-property name="gdx.files.classpath"
+                                   value="org/easypsycho/font/FreeSerifBoldItalic.ttf"/>
+    <extend-configuration-property name="gdx.files.classpath"
+                                   value="org/easypsycho/font/FreeSerifItalic.ttf"/>
+</module>

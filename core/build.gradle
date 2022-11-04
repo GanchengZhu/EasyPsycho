@@ -1,0 +1,17 @@
+
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+
+sourceSets.main.java.srcDirs = [ "src/" ]
+sourceSets.main.resources.srcDirs = ["res"]
+sourceSets.test.java.srcDirs = ["test"]
+eclipse.project.name = appName + "-core"
+
+task sourcesJar(type: Jar, dependsOn: classes) {
+    classifier = 'sources'
+    from sourceSets.main.allSource
+}
+
+artifacts {
+    archives sourcesJar
+//    archives javadocJar
+}
