@@ -1,4 +1,5 @@
-# EasyPsycho
+# EasyPsycho [Deprecated]
+
 
 EasyPsycho is a cross-platform java package for building psychological experiments 
 that works on Windows, Linux, macOS, Android, iOS, and Browsers based on [libGDX](https://libgdx.com). Its features: 
